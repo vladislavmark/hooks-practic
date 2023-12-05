@@ -1,4 +1,5 @@
-import { Component, useState } from 'react';
+// import { Component} from 'react';
+import { useState } from 'react';
 import { Container } from 'react-bootstrap';
 import './App.css';
 
